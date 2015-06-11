@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>res/qt.ico</file>
+        <file>res/lena.bmp</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>res/qt.ico</file>
+    </qresource>
+</RCC>
